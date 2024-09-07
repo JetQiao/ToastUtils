@@ -8,9 +8,7 @@
 默认提供成功、失败、警告、等样式。
 
 # Demo预览
-<div>
-    <img src="images/show.gif" />
-</div>
+![Demo示例](images/show.gif)
 
 # 使用方法
 
